@@ -25,7 +25,7 @@ Welcome to our CV repository! This repository contains the Curriculum Vitae (CVs
 ## 📂 Repository Structure
 
 ```
-.
+kelompok1/
 ├── CV_Derick/                  # Folder yang berisi CV Derick
 │   ├── cv_derick.pdf           # File CV Derick
 ├── CV_Justin/                  # Folder yang berisi CV Justin

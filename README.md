@@ -7,29 +7,26 @@ Welcome to our CV repository! This repository contains the Curriculum Vitae (CVs
 ### 1. Derick Tjoa
 
 - 🎓 NIM: 231110498
-- 💼 Interests: AI Engineer, Pentester, Web Design
-- 📄 [View CV](./CV_Derick/cv_derick.pdf)
+- 💼 Interests: AI Engineer
 
 ### 2. Justin Emerson Wijaya
 
 - 🎓 NIM: 231110357
-- 💼 Interests:
-- 📄 [View CV](./)
+- 💼 Interests: Marketing Web Developer
 
 ### 3. Daniel Pangihutan Siregar
 
 - 🎓 NIM: 231112256
-- 💼 Interests:
-- 📄 [View CV](./)
+- 💼 Interests: Application Developer
 
 ## 📂 Repository Structure
 
 ```
 kelompok1/
-├── CV_Derick/                  # Folder yang berisi CV Derick
-├── CV_Justin/                  # Folder yang berisi CV Justin
-├── CV_Daniel/                  # Folder yang berisi CV Daniel
-└── README.md                   # File ini
+├── src/                          # Folder yang file gambar yang diperlukan CV
+├── index.html                    # File ini adalah file html setelah dimerge
+├── style.css                     # File ini adalah file css yang diperlukan html
+└── README.md                     # File ini
 ```
 
 ## 📌 Purpose

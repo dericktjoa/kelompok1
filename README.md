@@ -44,3 +44,8 @@ This repository serves as:
 3. Commit your changes with a meaningful message
 
 ---
+
+## Hasil Merge
+[file merged](https://dericktjoa.github.io/kelompok1/)
+
+---

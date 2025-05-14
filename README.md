@@ -45,7 +45,8 @@ This repository serves as:
 
 ---
 
-## Hasil Merge
-[file merged](https://dericktjoa.github.io/kelompok1/)
+## Deployment
+
+[merged file deployed](https://dericktjoa.github.io/kelompok1/)
 
 ---
